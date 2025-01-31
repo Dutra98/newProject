@@ -22,6 +22,7 @@ int main()
     int cervejas, refrigerantes, espetinhos;
     float consumo, couvert, ingresso, valorAPagar;
 
+    printf("Informacoes do cliente:\n");
     printf("Sexo: ");
     scanf("%c", &sexo);
     printf("Quantidade de cervejas: ");
